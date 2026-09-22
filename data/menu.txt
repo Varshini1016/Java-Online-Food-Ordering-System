@@ -1,0 +1,8 @@
+101|Vegetable Biryani|VEG|180
+102|Paneer Pizza|VEG|250
+103|Masala Dosa|VEG|120
+104|Chicken Biryani|NON-VEG|280
+105|Chicken Burger|NON-VEG|220
+106|French Fries|VEG|90
+107|Gulab Jamun|VEG|80
+108|Fresh Lime Soda|VEG|70
